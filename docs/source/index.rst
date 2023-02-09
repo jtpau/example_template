@@ -2,7 +2,7 @@
 🍴   RESTAURANTES   🍴
 ===================================
 
-
+.. image:: images/restaurant.png
 
 
 exemple of url link `Open Food Facts database <https://world.openfoodfacts.org/>`_

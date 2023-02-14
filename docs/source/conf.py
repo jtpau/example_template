@@ -2,6 +2,8 @@
 
 # -- Project information
 
+import murray
+
 project = 'Restaurant'
 copyright = '2023, Pau'
 author = 'Pau'
@@ -25,8 +27,8 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
-#html_theme_path = [murray.get_html_theme_path()]
-templates_path = ['_templates']
+html_theme_path = [murray.get_html_theme_path()]
+#templates_path = ['_templates']
 
 # -- Options for HTML output
 

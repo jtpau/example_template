@@ -9,30 +9,9 @@ Contents
 
 .. toctree::
 
-   burguers
+   burgers
+   italian
    api
-
-
-
-Italianini 
-
-🍝Matiz
-🍝La Strada 
-🍕Tagliatella ✅
-🍝Papardella
-🍝Crapa pelata 
-🍝La lambrusqueria 
-🍝Al pomodoro ✅
-🍕La forcola
-🍕Sorsi e morsi 
-🍕 Pizza roma
-🍝 Napoli
-🍕 il cortile (C/Burriana)✅
-🍕 Acqua e Farina (Matías perelló)
-🍝 Osteria del Poeta 
-🍝 La mafia se sienta en la mesa ✅
-🍕 Grosso Napoletano ✅
-🍕 Rickel's ✅
 
 Asiático 
 

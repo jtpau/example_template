@@ -33,45 +33,39 @@ Burgers
 ------------------
    **🎊 Especialidad: Wagyu Ozaki!!! 🎊**
 
-`🍔Burger Beer < >`_
+`🍔Burger Beer <https://burgerbeer.es/>`_
 ------------------------
-`🍔Belmondo < >`_
----------------------
 `🍔 Hundred <https://www.hundredburgers.com/>`_
 ------------------------
-`🍔 Five guys < >`_
+`🍔 Five guys <https://restaurantes.fiveguys.es/>`_
 -----------------------
-`🍔 Bufit < >`_
+`🍔 Bufit <https://www.instagram.com/bufitruzafa/>`_
 -------------------
-`🍔 Angus < >`_
+`🍔 Angus <https://www.angusvalencia.es/>`_
 -------------------
-`🍔 Black turtle ✅ < >`_
+`🍔 Black turtle <https://theblackturtle.es/>`_
 -----------------------------
-`🍔 Pan de azúcar < >`_
+`🍔 Pan de azúcar <https://pan-de-azucar.negocio.site/>`_
 ---------------------------
-`🍔 Route 66 < >`_
-----------------------
-`🍔 N5 burgurt Garaje ✅ < >`_
+`🍔 N5 burgurt Garaje <https://elgarajefoodie.com/>`_
 ----------------------------------
-`🍔 Blue frog < >`_
------------------------
-`🍔 Tarantin chiflado ✅ < >`_
+`🍔 Tarantin chiflado <https://www.eltarantinchiflado.es/>`_
 ----------------------------------
-`🍔 Hamburguesa nostra < >`_
+`🍔 Hamburguesa nostra <https://www.hamburguesanostra.com/>`_
 --------------------------------
-`🍔 Black label < >`_
+`🍔 Black label <https://blacklabelurbangrill.com/>`_
 -------------------------
-`🍔 Fosters Hollywood ✅ < >`_
+`🍔 Fosters Hollywood <https://fostershollywood.es/>`_
 ----------------------------------
-`🍔 Tony romas ✅ < >`_
+`🍔 Tony Roma's <https://tonyromas.es/>`_
 ---------------------------
-`🍔 Tommy meals ✅ < >`_
+`🍔 Tommy mel's ✅ <https://www.tommymels.com/>`_
 ----------------------------
-`🍔 Jenkins < >`_
+`🍔 Jenkins <https://eatjenkins.com/>`_
 ---------------------
-`🍔 Soul burguer < >`_
+`🍔 Soul burguer <https://soulcoffeebeer.com/>`_
 --------------------------
-`🍔 Beak and troter < >`_
+`🍔 Beak and troter <https://beakandtrotter.com/>`_
 -----------------------------
 
 

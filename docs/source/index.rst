@@ -2,13 +2,15 @@
 🍴   RESTAURANTES   🍴
 ===================================
 
-.. image:: images/restaurant.png
+.. figure:: images/restaurant.png
+   :aling: center
+
 
 Contents
 --------
 
 .. toctree::
-
+   :titlesonly:
    burgers
    italian
    api

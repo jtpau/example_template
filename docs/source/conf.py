@@ -1,6 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
+import murray
 
 project = 'Restaurant'
 copyright = '2023, Pau'
@@ -30,8 +31,10 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 #html_theme = 'sphinx_rtd_theme'
-html_theme = 'nature'
+#html_theme = 'nature'
+html_theme = 'murray'
 #html_theme = 'default'
 
+html_theme_path = [murray.get_html_theme_path()]
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

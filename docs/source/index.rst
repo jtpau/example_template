@@ -3,11 +3,6 @@
 ===================================
 
 .. image:: images/restaurant.png
-    :alt: A description of this image
-
-.. figure:: images/restaurant.png
-
-    A caption for this figure
 
 Contents
 --------

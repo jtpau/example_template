@@ -31,7 +31,7 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 #html_theme = 'sphinx_rtd_theme'
-html_theme = 'nature'
+html_theme = 'yummy_sphinx_theme'
 #html_theme = 'murray'
 #html_theme = 'default'
 

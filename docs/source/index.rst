@@ -10,7 +10,7 @@ Contents
 --------
 
 .. toctree::
-   :titlesonly:
+   :maxdepth: 1
    burgers
    italian
    api

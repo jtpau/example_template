@@ -1,70 +1,19 @@
-===================================
+
 🍴   RESTAURANTES   🍴
 ===================================
 
-.. figure:: images/restaurant.png
-   :aling: center
+.. images:: images/restaurant2.jpeg
 
 
 Contents
 --------
 
 .. toctree::
-   :maxdepth: 1
    burgers
    italian
+   asian
    api
 
-Asiático 
-
-🍣Kamon 
-🍣Komori
-🍣Sushi cru
-🍣Tastem 
-🍣Sushi room 
-🍣Sushi shop
-🍣Miss Sushi 
-🍣Sushi point 
-🍣Aoyama ✅
-🍣Nagato 
-🍣Don Sushi 
-🍣Kokura (bien de precio en el Carmen)
-🍣 Akira
-🍣 Sushi do ✅
-🍣 Hanazono (benimaclet)
-🍣 Sushitok (Alfafar)
-🍣 Kiyoki 
-🍣 Samurái ✅
-🍣 Ashita ✅
-🍣 Fuji ✅
-🍣 Nozomi sushi bar
-🍣 Tora
-🍣 Ryukisin
-🍣 Udon
-🍣 Kaori
-🍣 Okay Lah
-🍣 Hikari
-🍣 Kento
-🍣 Osaka
-🍣 Kyoto
-🍣 Kaikaya
-🍣 Zen
-🍣 Mioya
-🍣 Colala
-🍣 Shintori teppanyaki
-
-🍜 Mei Chen (chino) 
-🍜 Mey-Mey (chino) 
-🍜 La gran Muralla(chino) 
-🍜 Mei Hua (chino) 
-🍜 Frenazo (chino)
-🍜 Wok beijing
-🍜 Restaurante nuevo siglo
-
-
-🍛 Lemon Grass
-🍛 Wok to walk
-🍛 Delicat
 
 Tapeo
 
@@ -124,7 +73,7 @@ De cerveceo
 🍺Cómic
 🍺Olhöps Craft Beer House
 
- Meriendas🥐🥞
+Meriendas🥐🥞
 giraffe (se puede comer y cenar)
 Dulce de leche
 La más bonita 
@@ -147,55 +96,61 @@ Vegin
 Voltereta
 
 
-MEXICANOS
--La llorona
--La venganza de Malinche
--Casa Amores
--Tecolotes
--Beers & Burros
--Ameyal
--Enchilame
--Taqueria la llorona
--Taqueria sol azteca
--Vento DF
+Mejicanos
+=========
+### `🌮 La llorona <>`_
+### `🌮 La venganza de Malinche <>`_
+### `🌮 Casa Amores <>`_
+### `🌮 Tecolotes <>`_
+### `🌮 Beers & Burros <>`_
+### `🌮 Ameyal <>`_
+### `🌮 Enchilame <>`_
+### `🌮 Taqueria la llorona <>`_
+### `🌮 Taqueria sol azteca <>`_
+### `🌮 Vento DF <>`_
 
-MARROQUÍES
--Sahara
--Balansiya
--Almunia
--Dukala 
--Aladwaq
--Leila
+Marroquíes
+==========
+### `🌯 Sahara <>`_
+### `🌯 Balansiya <>`_
+### `🌯 Almunia <>`_
+### `🌯 Dukala <>`_
+### `🌯 Aladwaq <>`_
+### `🌯 Leila <>`_
 
-ARABE
--Maharaja
--La casa arabe
--Sish mahal
--Taj mahal
+Árabe
+=====
+### `🥙 Maharaja <>`_
+### `🥙 La casa arabe <>`_
+### `🥙 Sish mahal <>`_
+### `🥙 Taj mahal <>`_
 
-INDIA
-🇮🇳El amarinder
-🇮🇳Tandoor masala
+Idia
+====
+### `🌶️ El amarinder <>`_
+### `🌶️ Tandoor masala <>`_
 
-VASCO
--Orio
+Vasco
+=====
+### `🥩 Orio <>`_
 
-HAWAII
--Poké Shop
--City poke
--Aloha poke
+Hawaii
+======
+### `🥗 Poké Shop <>`_
+### `🥗 City poke <>`_
+### `🥗 Aloha poke <>`_
 
 LIBANES
-🇱🇧Beirut
+🇱🇧 Beirut
 
 PERU
-🇵🇪Bouet (gran via germania) 
+🇵🇪 Bouet (gran via germania) 
 
 BRASIL
-🇧🇷Xingu
+🇧🇷 Xingu
 
 GRIEGO
-🇬🇷Kuzina
+🇬🇷 Kuzina
 
 BARES CON JUEGOS
 -café colores (cedro) 

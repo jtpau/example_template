@@ -98,47 +98,47 @@ Voltereta
 
 Mejicanos
 =========
-### `🌮 La llorona <>`_
-### `🌮 La venganza de Malinche <>`_
-### `🌮 Casa Amores <>`_
-### `🌮 Tecolotes <>`_
-### `🌮 Beers & Burros <>`_
-### `🌮 Ameyal <>`_
-### `🌮 Enchilame <>`_
-### `🌮 Taqueria la llorona <>`_
-### `🌮 Taqueria sol azteca <>`_
-### `🌮 Vento DF <>`_
+###`🌮 La llorona <>`_
+###`🌮 La venganza de Malinche <>`_
+###`🌮 Casa Amores <>`_
+###`🌮 Tecolotes <>`_
+###`🌮 Beers & Burros <>`_
+###`🌮 Ameyal <>`_
+###`🌮 Enchilame <>`_
+###`🌮 Taqueria la llorona <>`_
+###`🌮 Taqueria sol azteca <>`_
+###`🌮 Vento DF <>`_
 
 Marroquíes
 ==========
-### `🌯 Sahara <>`_
-### `🌯 Balansiya <>`_
-### `🌯 Almunia <>`_
-### `🌯 Dukala <>`_
-### `🌯 Aladwaq <>`_
-### `🌯 Leila <>`_
+###`🌯 Sahara <>`_
+###`🌯 Balansiya <>`_
+###`🌯 Almunia <>`_
+###`🌯 Dukala <>`_
+###`🌯 Aladwaq <>`_
+###`🌯 Leila <>`_
 
 Árabe
 =====
-### `🥙 Maharaja <>`_
-### `🥙 La casa arabe <>`_
-### `🥙 Sish mahal <>`_
-### `🥙 Taj mahal <>`_
+###`🥙 Maharaja <>`_
+###`🥙 La casa arabe <>`_
+###`🥙 Sish mahal <>`_
+###`🥙 Taj mahal <>`_
 
 Idia
 ====
-### `🌶️ El amarinder <>`_
-### `🌶️ Tandoor masala <>`_
+###`🌶️ El amarinder <>`_
+###`🌶️ Tandoor masala <>`_
 
 Vasco
 =====
-### `🥩 Orio <>`_
+###`🥩 Orio <>`_
 
 Hawaii
 ======
-### `🥗 Poké Shop <>`_
-### `🥗 City poke <>`_
-### `🥗 Aloha poke <>`_
+###`🥗 Poké Shop <>`_
+###`🥗 City poke <>`_
+###`🥗 Aloha poke <>`_
 
 LIBANES
 🇱🇧 Beirut
@@ -149,8 +149,9 @@ PERU
 BRASIL
 🇧🇷 Xingu
 
-GRIEGO
-🇬🇷 Kuzina
+Griego
+======
+###`🧀 Kuzina <>`_
 
 BARES CON JUEGOS
 -café colores (cedro) 

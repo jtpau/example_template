@@ -1,21 +1,21 @@
 Italianos
 =========
 
-### `🍝Matiz <>`_
-### `🍝La Strada <>`_
-### `🍕Tagliatella <>`_
-### `🍝Papardella <>`_
-### `🍝Crapa pelata <>`_
-### `🍝La lambrusqueria <>`_
-### `🍝Al pomodoro <>`_
-### `🍕La forcola <>`_
-### `🍕Sorsi e morsi <>`_
-### `🍕 Pizza roma <>`_
-### `🍝 Napoli <>`_
-### `🍕 il cortile (C/Burriana) <>`_
-### `🍕 Acqua e Farina (Matías perelló) <>`_
-### `🍝 Osteria del Poeta <>`_
-### `🍝 La mafia se sienta en la mesa <>`_
-### `🍕 Grosso Napoletano <>`_
-### `🍕 Rickel's <>`_
+###`🍝Matiz <>`_
+###`🍝La Strada <>`_
+###`🍕Tagliatella <>`_
+###`🍝Papardella <>`_
+###`🍝Crapa pelata <>`_
+###`🍝La lambrusqueria <>`_
+###`🍝Al pomodoro <>`_
+###`🍕La forcola <>`_
+###`🍕Sorsi e morsi <>`_
+###`🍕 Pizza roma <>`_
+###`🍝 Napoli <>`_
+###`🍕 il cortile (C/Burriana) <>`_
+###`🍕 Acqua e Farina (Matías perelló) <>`_
+###`🍝 Osteria del Poeta <>`_
+###`🍝 La mafia se sienta en la mesa <>`_
+###`🍕 Grosso Napoletano <>`_
+###`🍕 Rickel's <>`_
 
